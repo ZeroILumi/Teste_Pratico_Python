@@ -1,2 +1,2 @@
-# Teste_Pratico_Python
-Teste_Pratico_Python 
+# Teste Pratico de Python
+* # Todos os Testes Praticos de Python 
